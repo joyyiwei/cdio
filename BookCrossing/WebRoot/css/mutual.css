@@ -1,0 +1,6 @@
+@CHARSET "UTF-8";
+
+*{margin:0px;  padding:0px;}
+.bottom{width:930px; height:445px; margin:0 auto;}
+.dialogue{float:left;width:600px; height:445px; margin:0 auto;border:2px #009A01 solid;}
+.holderlist{float:right;width:322px; height:445px; margin:0 auto;border:2px #009A01 solid;}

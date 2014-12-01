@@ -1,0 +1,10 @@
+@CHARSET "UTF-8";
+
+*{margin:0px;  padding:0px;}
+.bottom{width:960px; height:445px; margin:0 auto;}
+
+iframe{border-width:0px;}
+.bottom #left1{float:left; width:145px; height:445px; border:2px #009A01 solid;}
+.bottom #left1{float:left; width:145px; height:445px; border:2px #009A01 solid;}
+.bottom #left1 input{width:140px;margin-left:5px;margin-top:15px;text-decoration:none; color:white;background:green; font-size:20px; padding-top:16px; display:block;}
+.bottom #right1{float:right; width:780px; height:445px;border:2px #009A01 solid; }

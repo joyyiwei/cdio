@@ -1,0 +1,10 @@
+@CHARSET "UTF-8";
+
+*{margin:0px;  padding:0px;}
+.showValue{width:700px; height:100px;margin:0 auto;border-bottom:1px rgb(192,192,192) solid;}
+.showValue span{margin-left:30px;font-size:30px;}
+.showValue  input{height:30px;width:50px;}
+.integralDetail{margin-top:20px;width:700px; height:320px;margin:0 auto;}
+.integralDetail span{margin-left:30px;font-size:20px;}
+table{margin-left:30px;}
+.ques{font-size:10px;color:rgb(0,153,0);}

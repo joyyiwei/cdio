@@ -1,0 +1,17 @@
+@CHARSET "UTF-8";
+
+*{margin:0px;  padding:0px;}
+iframe{border-width:0px;}
+.bottom{width:930px; height:445px; margin:0 auto;}
+.bottom #left1{float:left; width:145px; height:445px; border:2px #009A01 solid;}
+.bottom #left1 a{text-decoration:none; color:#000; font-size:25px; padding-top:14px; display:block;}
+.bottom #right1{float:right; width:750px; height:445px; border:2px #009A01 solid;}
+#wenxue{}
+#jisuanji{}
+#jiaoyu{}
+#guanli{}
+#lizhiyuchenggong{}
+#renwensheke{}
+#shenghuoyishu{}
+#keji{}
+#qita{}

@@ -1,0 +1,10 @@
+@CHARSET "UTF-8";
+
+
+*{margin:0px;  padding:0px;}
+.bottom{width:930px; height:445px; margin:0 auto;}
+.bottom .left1{float:left; width:145px; height:445px; border:2px #009A01 solid;}
+.bottom .left1 ul{margin-top:15px;}
+.bottom .left1 ul li{list-style:none; font-size:25px; padding-top:10px;}
+.bottom .left1 ul li a{text-decoration:none; color:#000;}
+.bottom .right1{float:right; width:750px; height:445px; border:2px #009A01 solid;}

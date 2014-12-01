@@ -1,0 +1,9 @@
+@CHARSET "UTF-8";
+
+*{margin:0px;  padding:0px;}
+.chooseItem{margin-left:5px;margin-top:10px;height:30px;width:650px;}
+.chooseItem .ItemPosition{margin-top:30px;height:20px;width:650px;}
+.bookContet{height:350px;width:730px;border-top:2px green solid;}
+.chooseItem .ItemPosition a{font-size:15px; color:green; font-size:20px;}
+.allContent{border:0px;}
+iframe{border:0px;}

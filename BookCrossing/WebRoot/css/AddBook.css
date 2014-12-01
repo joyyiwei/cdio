@@ -1,0 +1,38 @@
+@CHARSET "UTF-8";
+
+*{
+	margin:0px;  
+	padding:0px;
+}
+
+div{margin-left:20px;margin-top:20px;margin-buttom:20px;}
+.left{
+	margin:0px 20px 0px 200px;
+	width:150px;
+	height:350px;
+	border-width:1px;
+	border-color:green;
+	border-style:solid;
+}
+
+textarea{rows:10px;cols:5px;width:600px;height:100px}
+#photo img{width:80px;heigth:100px}
+
+#addPhoto{margin:-20px 0px 0px 50px;}
+.radioinput{margin:10px 20px 10px 10px}
+#photo{margin:-110px 50px 0px 400px}
+
+#add,#addPhoto{cursor:hand;}
+
+#add{margin:0px 50px 10px 400px;
+	width:50px;
+	height:30px;
+	border-width:0px;
+	background-color:green;
+	color:white;
+}
+
+.left a:active{color:red;background-color:green;}
+
+
+

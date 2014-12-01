@@ -1,0 +1,26 @@
+@CHARSET "UTF-8";
+
+*{margin:0px;  padding:0px;}
+.bottom{width:930px; height:400px; margin:0 auto;border:2px #009A01 solid;}
+.bottom .registerleft{float:left; width:445px; height:400px; margin:0 auto;}
+.bottom .registerright{float:right;width:445px; height:400px; margin:0 auto;}
+.bottom .registerright .registerMessage{margin-top:0px;margin-left:60px;width:300px; height:330px; border:2px rgb(240,240,240) solid;background:rgb(240,240,240);}
+.bottom .registerright .registerMessage .registerItem{margin-top:18px;margin-left:50px;}
+.bottom .registerright .registerMessage .registerItem span{margin-left:2px; margin-bottom:50px;font-size:20px}
+.bottom .registerright .registerMessage .registerItem input{margin-top:5px;height:25px;width:200px}
+.appoint{margin-top:18px;margin-left:50px;}
+.registerBotton{margin-top:18px;margin-left:50px;font-size:20px; border:1px #D6D6D6 solid;height:30px; width:200px;background:green;color:white;}
+.bottom .registerright .prompt{margin-top:22px;margin-left:100px;font-size:10px;padding-left:150px;color:blue;}
+
+
+.bottom .loginleft{float:left; width:445px; height:400px; margin:0 auto;}
+.bottom .loginright{float:right;width:445px; height:400px; margin:0 auto;}
+.bottom .loginright .loginMessage{margin-top:40px;margin-left:60px;width:300px; height:330px; border:2px rgb(240,240,240) solid;background:rgb(240,240,240);}
+.bottom .loginright .loginMessage .loginItem{margin-top:18px;margin-left:50px;}
+.bottom .loginright .loginMessage .loginItem span{margin-left:2px; margin-bottom:50px;font-size:20px}
+.bottom .loginright .loginMessage .loginItem input{margin-top:5px;height:25px;width:200px}
+.appoint{margin-top:18px;margin-left:50px;}
+.autoLogin{margin-top:18px;margin-left:50px;}
+.loginBotton{margin-top:18px;margin-left:50px;font-size:20px; border:1px #D6D6D6 solid;height:30px; width:200px;background:green;color:white;}
+.changeToRegister{margin-top:40px;margin-left:80px;font-size:10px;padding-left:150px;color:blue;}
+

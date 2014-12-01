@@ -1,0 +1,16 @@
+@CHARSET "UTF-8";
+*{margin:0px;  padding:0px;}
+.bottom{width:930px; height:400px; margin:0 auto;border:2px #009A01 solid;}
+.bottom .messageleft{float:left; width:300px; height:400px; margin:0 auto;}
+.bottom .messageleft img{width:150px; height:200px;margin:40px;}
+.bottom .messageright{margin-left:40px;margin-top:40px;float:right;width:550px; height:300px;}
+ span{margin-left:2px; margin-bottom:50px;font-size:20px}
+.usernameInput{height:25px;width:200px}
+.sexChoose{margin-left:15px}
+.information{margin-left:40px;margin-top:40px;}
+.address{margin-top:5px;margin-bottom:20px;height:25px;width:400px}
+.messageright div{margin-left:4px;margin-top:4px;margin-top:5px;margin-bottom:20px;}
+.messageright .hobby input{padding:4px;border:1px rgb(192,192,192) solid;margin-left:30px;margin-bottom:30px;background:rgb(255,255,204);}
+.okBotton{margin-top:10px;margin-left:400px;font-size:20px; border:1px #D6D6D6 solid;height:30px; width:100px;background:green;color:white;}
+.chooseimg{size:100px;margin-left:40px;}
+.submitImg{size:50px;margin-left:40px;margin-top:5px;background:green;color:white;width:50px;}
